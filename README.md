@@ -113,17 +113,17 @@ software development/engineering roles.
 
 ### The Study Plan
 
-- [x] [What is it?](#what-is-it)
-- [x] [Why use it?](#why-use-it)
-- [x] [How to use it](#how-to-use-it)
-- [x] [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
-- [x] [A Note About Video Resources](#a-note-about-video-resources)
-- [x] [Choose a Programming Language](#choose-a-programming-language)
-- [x] [Books for Data Structures and Algorithms](#books-for-data-structures-and-algorithms)
-- [x] [Interview Prep Books](#interview-prep-books)
-- [x] [Don't Make My Mistakes](#dont-make-my-mistakes)
-- [x] [What you Won't See Covered](#what-you-wont-see-covered)
-- [x] [The Daily Plan](#the-daily-plan)
+- [What is it?](#what-is-it)
+- [Why use it?](#why-use-it)
+- [How to use it](#how-to-use-it)
+- [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
+- [A Note About Video Resources](#a-note-about-video-resources)
+- [Choose a Programming Language](#choose-a-programming-language)
+- [Books for Data Structures and Algorithms](#books-for-data-structures-and-algorithms)
+- [Interview Prep Books](#interview-prep-books)
+- [Don't Make My Mistakes](#dont-make-my-mistakes)
+- [What you Won't See Covered](#what-you-wont-see-covered)
+- [The Daily Plan](#the-daily-plan)
 - [Coding Question Practice](#coding-question-practice)
 - [Coding Problems](#coding-problems)
 
@@ -575,7 +575,7 @@ But don't forget to do coding problems from above while you learn!
 - There are a lot of videos here. Just watch enough until you understand it. You can always come back and review.
 - Don't worry if you don't understand all the math behind it.
 - You just need to understand how to express the complexity of an algorithm in terms of Big-O.
-- [ ] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
+- [x] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
 - [ ] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
 - [ ] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] [Skiena (video)](https://www.youtube.com/watch?v=z1mkCe3kVUA)
