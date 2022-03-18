@@ -1,4 +1,5 @@
 # Python program to practice with and become comfortable using arrays
+# Connor Horrocks
 
 # Create Array
 import array as arr
